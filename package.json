@@ -1,8 +1,8 @@
 {
   "name": "femtojs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Really small JS (ES6) library for DOM manipulation.",
-  "main": "index.js",
+  "main": "src/femtoJS.min.js",
   "directories": {
     "lib": "lib"
   },
